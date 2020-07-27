@@ -4,5 +4,5 @@
 
 ```
 vue create --preset direct:https://github.com/WayneXiao/ihr-preset.git --clone my-project
-# 使用 @ihr/preset 创建一个项目my-project 
+# 使用 @ihr/preset 创建一个项目 my-project 
 ```
