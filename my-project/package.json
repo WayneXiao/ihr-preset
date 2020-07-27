@@ -1,0 +1,10 @@
+{
+  "name": "my-project",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "useConfigFiles": "latest",
+    "plugins": "latest",
+    "@vue/cli-service": "~4.4.0"
+  }
+}
